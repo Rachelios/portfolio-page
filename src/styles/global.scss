@@ -9,7 +9,7 @@ body {
   margin-top: 0
 }
 body.light {
-  --primary-color: #10072b;
+  --primary-color: #fff;
   --primary-text-color: #fff;
   --featured-bg: #fff;
   --featured-text: #fff;
@@ -85,7 +85,7 @@ a {
       font-weight: 700;
     }
     &:hover {
-      color: var(--primary-color);
+      color: var(--btn-text-color);
     }
     &:last-child {
       margin-right: 0;
