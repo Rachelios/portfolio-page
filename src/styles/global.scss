@@ -45,7 +45,7 @@ body.dark {
   --btn-bdr: #d3d6e7;
   --btn-text-color: #868892;
   --btn-hover-bg: var(--btn-bdr);
-  --btn-hover-text-color: #00062b;
+  --btn-hover-text-color: #2b3daf;
   --contact-bg: var(--card-shadow);
   --contact-bdr: var(--card-bg);
   --input-bg: var(--card-bg);
@@ -81,7 +81,7 @@ a {
     text-decoration: none;
     margin: 0 8px 0;
     &[aria-current] {
-      color: var(--primary-color);
+      color: var(--btn-text-color;
       font-weight: 700;
     }
     &:hover {
@@ -223,7 +223,7 @@ a {
   overflow: hidden;
   line-height: 1.5;
   &:hover .post-link {
-    color: var(--primary-color);
+    color: var(--btn-text-color);
   }
   > a img {
     display: block;
