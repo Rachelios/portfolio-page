@@ -14,6 +14,7 @@ body.light {
   --featured-bg: #fff;
   --featured-text: #fff;
   --secondary-color: #10072b;
+  --text-color: rgba(255,255,255,0.88);
   --background: #fff;
   --site-header: var(--background);
   --card-bg: #fff;
@@ -151,7 +152,7 @@ a {
 .post {
   padding: 0;
   background:var(--background);
-  color: var(--text-color);
+  color:  #9984d5;
   line-height: 1.5;
   > .blog-post-content {
     max-width: 768px;
@@ -164,6 +165,7 @@ a {
   .post-title {
     text-align: center;
     margin: 0 0 0.5rem;
+    color:  #9984d5;
     line-height: 1.3;
     font-size: 2rem;
   }
@@ -237,6 +239,7 @@ a {
   .post-title {
     font-size: 1.2rem;
     margin-bottom: 0.3rem;
+    color:  #9984d5;
   }
   .post-meta {
     font-weight: 100;
