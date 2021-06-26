@@ -2,7 +2,7 @@
 template: BlogPost
 path: /hello-world
 date: 2020-07-20T07:08:53.137Z
-title: Student:Techer Ratio, customised annotation (R)
+title: Student / Teacher Ratio, customised annotation (R)
 thumbnail: /assets/image-3.jpg
 metaDescription: Meta description for Hello World
 ---
