@@ -1,8 +1,8 @@
 ---
 template: BlogPost
 path: /remark-kitchen-sink
-date: 2020-02-21T12:12:25.364Z
-title: 'Hello World: The remark Kitchen Sink'
+date: 2021-06-20T12:12:25.364Z
+title: 'Popularity Index of Historical Characters (Pantheon Project data, R)'
 thumbnail: /assets/image-6.jpg
 ---
 # h1 Heading 8-)

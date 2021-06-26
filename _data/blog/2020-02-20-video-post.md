@@ -1,8 +1,8 @@
 ---
 template: BlogPost
 path: /video-post
-date: 2020-02-20T15:05:49.332Z
-title: Post with Youtube Video embed
+date: 2020-12-20T15:05:49.332Z
+title: Most Dangerous Airplanes (Kaggle data since 1908, World Cloud)
 thumbnail: /assets/image-1.jpg
 ---
 I have embedded a youtude video in this page. By adding HTML to the markdown
