@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-path: https://heyiamrachel.com/posts/fundamental-stock-analysis-in-python
+path: /posts/sfundamental-stock-analysis-in-python
 date: 2020-12-20T15:05:49.332Z
 title: Most Dangerous Airplanes (Kaggle data since 1908, WordCloud)
 thumbnail: /assets/image-1.jpg

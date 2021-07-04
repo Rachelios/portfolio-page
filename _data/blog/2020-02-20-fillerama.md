@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-path: https://heyiamrachel.com/posts/fundamental-stock-analysis-in-python
+path: /posts/fsundamental-stock-analysis-in-python
 date: 2020-09-20T14:59:36.571Z
 title: Five Flametrees (Drawing in R)
 thumbnail: /assets/image-5.jpg
