@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-path: /rose-post
+path: https://heyiamrachel.com/posts/fundamental-stock-analysis-in-python
 date: 2020-01-10T09:15:50.738Z
 title: Rose flower, plotting with sin(x) and sin(y) (in R)
 thumbnail: /assets/image-11.jpg
