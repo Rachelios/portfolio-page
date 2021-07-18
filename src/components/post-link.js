@@ -10,7 +10,7 @@ const PostLink = ({ post }) => (
     </a>
     <header>
       <h2 className="post-title">
-        <a href="https://heyiamrachel.com">
+        <a href= {"https://heyiamrachel.com"} {...frontmatter.path} className="post-link">
             {post.frontmatter.title}
            </a>
       </h2>
