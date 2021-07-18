@@ -10,12 +10,12 @@ const PostLink = ({ post }) => (
     </a>
     <header>
       <h2 className="post-title">
-        <a href= {"https://heyiamrachel.com"} {...post.frontmatter.path} className="post-link">
+        <a href= {`https://heyiamrachel.com/${post.frontmatter.path}`} className="post-link">
             {post.frontmatter.title}
            </a>
       </h2>
       <div className="post-meta">{post.frontmatter.date}</div>
-    </header>
+    </header> 
   </article>
 )
 export default PostLink
