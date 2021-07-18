@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-path: /new-post-7
+path: /stock-with-clever-tickers
 date: 2020-12-20T15:05:49.332Z
 title: Most Dangerous Airplanes (Kaggle data since 1908, WordCloud)
 thumbnail: /assets/image-1.jpg

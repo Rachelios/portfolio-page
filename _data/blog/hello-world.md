@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-path: /hello-world
+path: /stock-with-clever-tickers
 date: 2020-07-20T07:08:53.137Z
 title: Student / Teacher Ratio, customised annotation (R)
 thumbnail: /assets/image-3.jpg

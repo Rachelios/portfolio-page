@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-path: /new-post-2
+path: /stock-with-clever-tickers
 date: 2020-05-01T06:15:50.738Z
 title: A bokeh random visualisation (Python)
 thumbnail: /assets/image-8.jpg
