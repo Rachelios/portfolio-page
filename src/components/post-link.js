@@ -3,7 +3,7 @@ import { Link } from "gatsby"
 
 const PostLink = ({ post }) => (
   <article className="card ">
-    <a href="https://heyiamrachel.com">
+    <a href= {`https://heyiamrachel.com/${post.frontmatter.path}`} >
       {!!post.frontmatter.thumbnail && (
         <img src={post.frontmatter.thumbnail} alt={post.frontmatter.title + "- Featured Shot"} />
       )}
