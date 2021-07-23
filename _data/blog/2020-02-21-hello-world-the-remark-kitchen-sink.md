@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-path: /stock-with-clever-tickers
+path: /those-cultural-accomplishments-that-shape-the-world
 date: 2021-06-20T12:12:25.364Z
 title: 'Popularity Index of Historical Characters (Pantheon Project data, R)'
 thumbnail: /assets/image-6.jpg
