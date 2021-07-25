@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-path: /stock-with-clever-tickers
+path: /kindly-hold-your-ticket-to-buy-happiness
 date: 2021-06-26T06:15:50.738Z
 title: Happy countries are all alike; every unhappy country is unhappy in its own way (Python)
 thumbnail: /assets/image-9.jpg
